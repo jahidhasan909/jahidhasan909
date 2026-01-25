@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Think%20Strong&fontSize=50&fontColor=ffffff&color=0:000000,100:1a1a1a" />
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=THINK%20STRONG&fontSize=70&fontColor=ffffff&animation=twinkling" alt="Think Strong Banner" />
 </p>
