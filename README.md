@@ -1,9 +1,14 @@
 Hi I am Jahid Hasan.
 Let's connect!
-[Email Me](mailto:jjjjahidhasan999@gmail.com)
-![LinkedIn](www.linkedin.com/in/jahid--hasan)
-![Facebook](https://www.facebook.com/jahid.hasan.556551?mibextid=wwXIfr&rdid=K1vQ39uPNUK0FoFO&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F17jaTCRgaA%2F%3Fmibextid%3DwwXIfr)
-![Instagram](https://www.instagram.com/jh__jahidhasan/)
+
+
+[![Facebook Badge](https://www.facebook.com/jahid.hasan.556551?mibextid=wwXIfr&rdid=K1vQ39uPNUK0FoFO&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F17jaTCRgaA%2F%3Fmibextid%3DwwXIfr)](https://www.facebook.com/jahidhasan) 
+[![Instagram Badge](https://www.instagram.com/jh__jahidhasan/)](https://www.instagram.com/jh__jahidhasan/profilecard/) 
+[![Linkedin Badge](www.linkedin.com/in/jahid--hasan) 
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:entrptaher+github@gmail.com)](mailto:jjjjahidhasan999@gmail.com)
+
+
+
 
 
 
