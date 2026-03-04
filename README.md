@@ -1,11 +1,13 @@
 Hi I am Jahid Hasan.
-Let's connect!
+Let's connect!                                                                                                                       
 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jahid.hasan.556551)
 
-[![Facebook Badge](https://www.facebook.com/jahid.hasan.556551?mibextid=wwXIfr&rdid=K1vQ39uPNUK0FoFO&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F17jaTCRgaA%2F%3Fmibextid%3DwwXIfr)](https://www.facebook.com/jahidhasan) 
-[![Instagram Badge](https://www.instagram.com/jh__jahidhasan/)](https://www.instagram.com/jh__jahidhasan/profilecard/) 
-[![Linkedin Badge](www.linkedin.com/in/jahid--hasan) 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:entrptaher+github@gmail.com)](mailto:jjjjahidhasan999@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jh__jahidhasan/)
+
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahid--hasan)
+
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjjjahidhasan999@gmail.com)
 
 
 
