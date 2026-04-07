@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./J2iLN2.jpg" width="350"/>
+  <img src="./J2iLN 2.jpg" width="350"/>
 </div>
 Let's connect!                                                                                                                       
 
