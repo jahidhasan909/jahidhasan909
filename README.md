@@ -3,7 +3,9 @@ Let's connect!
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahid--hasan) [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjjjahidhasan999@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jahid.hasan.556551) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jh__jahidhasan/)                                                                                                                                                                                                                                           
 
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Hello+there!;I+am+Jahid+Hasan;Nice+to+meet+you+👋" />
+</h1>
 
 
 
