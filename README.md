@@ -25,7 +25,7 @@ Let's connect!
 
 <td>
 
-<img src="./coding.gif" width="350"/>
+<img src="./10_coding_dribbble.gif" width="350"/>
 
 </td>
 </tr>
