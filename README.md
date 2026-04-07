@@ -7,6 +7,30 @@ Let's connect!
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+there!;I+am+Jahid+Hasan;Nice+to+meet+you+👋" />
 </h1>
 
+<table>
+<tr>
+<td>
+
+### Talking about Personal Stuff:
+
+🔧 I’m currently working with Javascript, React, Tailwind CSS.  
+
+🚀 I’m currently exploring Next.js.  
+
+📫 Reach me out: jjjjahidhasan999@gmail.com  
+
+💻 I love exploring new technologies and building cool stuff.
+
+</td>
+
+<td>
+
+<img src="./coding.gif" width="350"/>
+
+</td>
+</tr>
+</table>
+
 
 
 
