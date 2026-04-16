@@ -66,11 +66,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </div>
 
+  <br/>  <br/>
 
 
 
-
-<p align="center" style="display: flex; flex-direction: column; gap: 10px;">
+<p align="center"">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasan909&layout=compact&theme=tokyonight"/>
+  <br/>   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=jahidhasan909&show_icons=true&theme=tokyonight"/>
 </p>
