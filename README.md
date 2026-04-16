@@ -16,6 +16,8 @@
 
 
 <table align="center">
+
+  
 <tr>
 <td>
 
@@ -50,6 +52,16 @@
 
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasan909&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidhasan909&show_icons=true&theme=tokyonight"/>
+</p>
+
+
+
+
+
+
 <div align="center">
 
   ### 
@@ -61,5 +73,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 </div>
+
+
+
