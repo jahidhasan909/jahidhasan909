@@ -52,15 +52,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasan909&layout=compact&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jahidhasan909&show_icons=true&theme=tokyonight"/>
-</p>
-
-
-
-
-
 
 <div align="center">
 
@@ -77,3 +68,9 @@
 
 
 
+
+
+<p align="center" style="display: flex; flex-direction: column; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasan909&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidhasan909&show_icons=true&theme=tokyonight"/>
+</p>
