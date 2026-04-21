@@ -23,9 +23,9 @@
 
 ### Talking about Personal Stuff:
 
-🔧 I’m currently working with Javascript, React, Tailwind CSS.  
+🔧 I’m currently working with Javascript, React,Next.js, Tailwind CSS.  
 
-🚀 I’m currently exploring Next.js.  
+🚀 I’m currently exploring mongodb,betterAuth.  
 
 📫 Reach me out: jjjjahidhasan999@gmail.com  
 
