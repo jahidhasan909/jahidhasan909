@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./J2iLN 2.jpg" width="350"/>
+  <img src="./Gemini_Generated_Image_d2or8pd2or8pd2or.png" width="380"/>
 </div>
 
 <h1 align="center">
