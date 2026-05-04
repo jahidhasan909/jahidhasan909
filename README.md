@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+there!;I+am+Jahid+Hasan;Nice+to+meet+you+👋" />
 </h1>
 
-<h1 align="center">Frontend Developer | JavaScript, React.js, Next.js, Tailwind CSS</h1>
+<h1 align="center">Frontend Developer | JavaScript, React.js, Next.js,Node js,Express,MongoDB, Tailwind CSS</h1>
 
                                                                                                                        
 <div align="center">
@@ -23,9 +23,9 @@
 
 ### Talking about Personal Stuff:
 
-🔧 I’m currently working with Javascript, React,Next.js, Tailwind CSS.  
+🔧 I’m currently working with Javascript, React ,Next.js ,Node js ,Express ,MongoDB , Tailwind CSS.  
 
-🚀 I’m currently exploring mongodb,betterAuth.  
+🚀 I’m currently exploring nodejs,express.  
 
 📫 Reach me out: jjjjahidhasan999@gmail.com  
 
