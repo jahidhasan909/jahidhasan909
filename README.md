@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="./Gemini_Generated_Image_d2or8pd2or8pd2or.png" width="380"/>
-</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+there!;I+am+Jahid+Hasan;Nice+to+meet+you+👋" />
