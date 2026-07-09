@@ -1,11 +1,4 @@
-<p align="center">
-  <img 
-    src="./bannerbg.png" 
-    alt="Jahid Hasan Banner" 
-    width="100%" 
-    style="display: block; width: 100%; height: auto;"
-  />
-</p>
+<p align="center"> <img src="./bannerl.png" alt="Jahid Hasan Banner" width="100%" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Jahid Hasan</h1>
