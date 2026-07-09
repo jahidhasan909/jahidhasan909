@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">Jahid Hasan</h1>
+<h1 align="center">Hi,I'm Jahid Hasan 👋</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Nice+to+meet+you+%F0%9F%91%8B;MERN+Stack+Developer;Full+Stack+Developer;Web+Developer" alt="Typing SVG" />
@@ -69,6 +69,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 </div>
 
   <br/>  <br/>
