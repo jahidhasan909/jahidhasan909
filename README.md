@@ -1,7 +1,15 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+there!;I+am+Jahid+Hasan;Nice+to+meet+you+👋" />
-</h1>
+<p align="center">
+  <img src="./banner.png" alt="Jahid Hasan Banner" width="100%" />
+</p>
+
+
+<h1 align="center">Jahid Hasan</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Nice+to+meet+you+%F0%9F%91%8B;MERN+Stack+Developer;Full+Stack+Developer;Web+Developer" alt="Typing SVG" />
+</h3>
+
 
 <h1 align="center">MERN Stack Developer | JavaScript, React.js, Next.js,Node js,Express,MongoDB,Better Auth, Tailwind CSS</h1>
 
