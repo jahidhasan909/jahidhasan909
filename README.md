@@ -32,7 +32,7 @@ Motivated by continuous learning, solving real-world challenges, and delivering 
 
 
                                                                                                                        
-<div align="center">
+<div align="center" style="padding: 20px 0;">
 
 <a href="https://jahidhasan999.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
