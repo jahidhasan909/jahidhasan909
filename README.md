@@ -20,9 +20,9 @@
 
 ### Talking about Personal Stuff:
 
-🔧 I’m currently working with Javascript, React ,Next.js ,Node js ,Express ,MongoDB , Tailwind CSS.  
+🔧 I’m currently working with Javascript, React ,Next.js ,Node js ,Express js,MongoDB , Tailwind CSS.  
 
-🚀 I’m currently exploring nodejs,express.  
+🚀 I’m currently exploring TypeScript.  
 
 📫 Reach me out: jjjjahidhasan999@gmail.com  
 
