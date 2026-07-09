@@ -67,11 +67,6 @@ Motivated by continuous learning, solving real-world challenges, and delivering 
 
 
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jahidhasan909/jahidhasan909/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 
